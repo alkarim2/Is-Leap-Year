@@ -1,0 +1,1 @@
+The challenge was to create a HTML, CSS and JavaScript website that takes a year as input then states whether the year is a leap year or not as output. The languages used were HTML, CSS and JavaScript. How it works is by the user inputting a year into the website then a result is displayed stating whether the year is a leap year or not.
